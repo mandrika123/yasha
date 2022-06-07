@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background: url(img/Blue-Textured-Wallpaper-21-2560x1600.jpg);
+}
+.card {
+  width: 400px;
+  margin: 30px auto;
+  background-color: #fff;
+  box-shadow: 0 5px 10px#ccc;
+  border-radius: 10px;
+  padding: 20px;
+}
+.card-photo {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.card-title {
+  font: size 20px;
+  text-align: center;
+  color: rgb(180, 20, 20);
+}
+
+.card-text {
+  font-size: 14px;
+}
+
+.card-subtitle {
+  font-size: 18;
+  color: rgb(0, 0, 189);
+}
+
+.card-list {
+  padding-left: 0;
+  list-style-position: inside;
+  font-size: 14;
+}
